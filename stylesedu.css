@@ -1,0 +1,149 @@
+/* Main Headline */
+.headline-today {
+    color: #034833;
+    font-size: 48px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* News Title */
+.news-title {
+    color: black;
+    font-size: 32px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* News Content */
+.news-content {
+    color: black;
+    font-size: 16px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    line-height: 28px;
+    word-wrap: break-word;
+}
+
+/* News Timestamp */
+.news-timestamp {
+    color: #4A4A4A;
+    font-size: 16px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 500;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Educational Videos Section Title */
+.educational-videos-title {
+    color: #034833;
+    font-size: 40px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Video Name */
+.video-name {
+    color: black;
+    font-size: 20px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Content Creator */
+.content-creator {
+    color: black;
+    font-size: 16px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Views */
+.views {
+    color: black;
+    font-size: 20px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Date */
+.date {
+    color: black;
+    font-size: 15px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Filter */
+.filter {
+    color: white;
+    font-size: 24px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Search Videos */
+.search-videos {
+    color: black;
+    font-size: 24px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Navigation Links */
+.nav-link {
+    color: #034833;
+    font-size: 15px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+    word-wrap: break-word;
+}
+
+/* Navigation Icon */
+.nav-icon {
+    color: #034833;
+    font-size: 10px;
+    font-family: Font Awesome 6 Free;
+    font-weight: 900;
+    word-wrap: break-word;
+}
+
+/* Login Button */
+.login-button {
+    color: white;
+    font-size: 14px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Arrow Icon */
+.arrow-icon {
+    color: white;
+    font-size: 16px;
+    font-family: Font Awesome 6 Free;
+    font-weight: 900;
+    word-wrap: break-word;
+}

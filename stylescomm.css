@@ -1,0 +1,155 @@
+/* General Styles */
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    word-wrap: break-word;
+  }
+  
+  /* Search */
+  .search-posts,
+  .search-users,
+  .search-communities {
+    color: black;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 78px;
+  }
+  
+  /* Popular */
+  .popular {
+    color: black;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 78px;
+  }
+  
+  /* Home */
+  .home {
+    color: #034833;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+  }
+  
+  /* Angle Down */
+  .angle-down {
+    color: #034833;
+    font-size: 10px;
+    font-family: 'Font Awesome 6 Free';
+    font-weight: 900;
+  }
+  
+  /* About Us */
+  .about-us {
+    color: #034833;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+  }
+  
+  /* Events */
+  .events {
+    color: #034833;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+  }
+  
+  /* News */
+  .news {
+    color: #034833;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+  }
+  
+  /* Forum */
+  .forum {
+    color: #034833;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+  }
+  
+  /* Login */
+  .login {
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 30px;
+  }
+  
+  /* Arrow Right */
+  .arrow-right {
+    color: white;
+    font-size: 16px;
+    font-family: 'Font Awesome 6 Free';
+    font-weight: 900;
+  }
+  
+  /* Join Button */
+  .join {
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 30px;
+  }
+  
+  /* Plus Icon */
+  .plus {
+    color: white;
+    font-size: 16px;
+    font-family: 'Font Awesome 6 Free';
+    font-weight: 900;
+  }
+  
+  /* Community Titles */
+  .community-title {
+    color: black;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+  }
+  
+  /* Post Information */
+  .post-info {
+    color: #5E5E5E;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+  }
+  
+  /* Post Content */
+  .post-content {
+    color: black;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 45px;
+  }
+  
+  /* Post Engagement */
+  .post-engagement {
+    color: #3E3F3C;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 45px;
+  }
+  
+  /* Specific Post Engagement Styles */
+  .likes,
+  .comments {
+    color: #3E3F3C;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 45px;
+  }
+  

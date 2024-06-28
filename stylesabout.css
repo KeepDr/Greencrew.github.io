@@ -1,0 +1,137 @@
+/* Home */
+.home {
+    color: #034833;
+    font-size: 15px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+    word-wrap: break-word;
+}
+
+/* Angle Down */
+.angle-down {
+    color: #034833;
+    font-size: 10px;
+    font-family: Font Awesome 6 Free;
+    font-weight: 900;
+    word-wrap: break-word;
+}
+
+/* About Us */
+.about-us {
+    color: #034833;
+    font-size: 15px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+    word-wrap: break-word;
+}
+
+/* Events */
+.events {
+    color: #034833;
+    font-size: 15px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+    word-wrap: break-word;
+}
+
+/* News */
+.news {
+    color: #034833;
+    font-size: 15px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+    word-wrap: break-word;
+}
+
+/* Forum */
+.forum {
+    color: #034833;
+    font-size: 15px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+    word-wrap: break-word;
+}
+
+/* Login */
+.login {
+    color: white;
+    font-size: 14px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Arrow Right */
+.arrow-right {
+    color: white;
+    font-size: 16px;
+    font-family: Font Awesome 6 Free;
+    font-weight: 900;
+    word-wrap: break-word;
+}
+
+/* Welcome Message */
+.welcome-message {
+    color: black;
+    font-size: 32px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    line-height: 45px;
+    word-wrap: break-word;
+}
+
+/* Our Story */
+.our-story {
+    color: black;
+    font-size: 36px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    line-height: 45px;
+    word-wrap: break-word;
+}
+
+/* Our Story Title */
+.our-story-title {
+    color: #034833;
+    font-size: 24px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    line-height: 45px;
+    word-wrap: break-word;
+}
+
+/* What We Do */
+.what-we-do {
+    color: black;
+    font-size: 32px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    line-height: 45px;
+    word-wrap: break-word;
+}
+
+/* What We Do Title */
+.what-we-do-title {
+    color: #034833;
+    font-size: 24px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    line-height: 45px;
+    word-wrap: break-word;
+}

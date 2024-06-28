@@ -1,0 +1,329 @@
+/* Styles for Uniting to Restore and Revitalize Our Ecosystem */
+.unite-restore {
+    color: #034833;
+    font-size: 80px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 90px;
+    word-wrap: break-word;
+}
+
+/* Styles for Get Started */
+.get-started {
+    color: #034833;
+    font-size: 14px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Styles for arrow-right-long */
+.arrow-right-long {
+    color: #034833;
+    font-size: 14px;
+    font-family: Font Awesome 6 Free;
+    font-weight: 900;
+    word-wrap: break-word;
+}
+
+/* Styles for Kalimantan */
+.kalimantan {
+    color: #034833;
+    font-size: 16px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Styles for Sumatra */
+.sumatra {
+    color: #034833;
+    font-size: 16px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Styles for Sulawesi */
+.sulawesi {
+    color: #034833;
+    font-size: 16px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Styles for Papua */
+.papua {
+    color: #034833;
+    font-size: 16px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Styles for Jawa */
+.jawa {
+    color: #034833;
+    font-size: 16px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Styles for Home */
+.home {
+    color: #034833;
+    font-size: 15px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+    word-wrap: break-word;
+}
+
+/* Styles for angle-down */
+.angle-down {
+    color: #034833;
+    font-size: 10px;
+    font-family: Font Awesome 6 Free;
+    font-weight: 900;
+    word-wrap: break-word;
+}
+
+/* Styles for About Us */
+.about-us {
+    color: #034833;
+    font-size: 15px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+    word-wrap: break-word;
+}
+
+/* Styles for events */
+.events {
+    color: #034833;
+    font-size: 15px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+    word-wrap: break-word;
+}
+
+/* Styles for news */
+.news {
+    color: #034833;
+    font-size: 15px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+    word-wrap: break-word;
+}
+
+/* Styles for FORUM */
+.forum {
+    color: #034833;
+    font-size: 15px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 26px;
+    letter-spacing: 1.40px;
+    word-wrap: break-word;
+}
+
+/* Styles for Login */
+.login {
+    color: white;
+    font-size: 14px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Styles for arrow-right */
+.arrow-right {
+    color: white;
+    font-size: 16px;
+    font-family: Font Awesome 6 Free;
+    font-weight: 900;
+    word-wrap: break-word;
+}
+
+/* Styles for Welcome to GreenCrew */
+.welcome-greencrew {
+    color: #034833;
+    font-size: 50px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    line-height: 60px;
+    word-wrap: break-word;
+}
+
+/* Styles for Connect with Community */
+.connect-community {
+    color: #034833;
+    font-size: 22px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Styles for mission statement */
+.mission-statement {
+    color: #727272;
+    font-size: 16px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Styles for Create and Join Events */
+.create-join-events {
+    color: #034833;
+    font-size: 22px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Styles for events description */
+.events-description {
+    color: #727272;
+    font-size: 16px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Styles for Access Educational Resources */
+.access-education {
+    color: #034833;
+    font-size: 22px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Styles for educational resources description */
+.education-description {
+    color: #727272;
+    font-size: 16px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+/* Styles for passionate individuals statement */
+.passionate-individuals {
+    color: #034833;
+    font-size: 20px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 14px;
+    letter-spacing: 1.40px;
+    word-wrap: break-word;
+}
+
+/* Styles for Privacy Policy */
+.privacy-policy {
+    color: white;
+    font-size: 30px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 500;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Styles for Contact Us */
+.contact-us {
+    color: white;
+    font-size: 45px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Styles for Company */
+.company {
+    color: white;
+    font-size: 45px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Styles for Help */
+.help {
+    color: white;
+    font-size: 45px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 700;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Styles for Terms and Condition */
+.terms-condition {
+    color: white;
+    font-size: 30px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 500;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Styles for Help Center */
+.help-center {
+    color: white;
+    font-size: 30px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 500;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Styles for Security Center */
+.security-center {
+    color: white;
+    font-size: 30px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 500;
+    line-height: 78px;
+    word-wrap: break-word;
+}
+
+/* Styles for Copyright Policy */
+.copyright-policy {
+    color: white;
+    font-size: 30px;
+    font-family: Plus Jakarta Sans;
+    font-weight: 500;
+    line-height: 78px;
+    word-wrap: break-word;
+}

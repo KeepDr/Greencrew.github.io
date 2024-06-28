@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="stylesreg.css">
+</head>
+<body>
+    <div class="container">
+        <div class="form-container">
+            <img src="images/image 1.png" class="logo" />
+            <div class="title">Hello, Welcome!</div>
+
+            <form id="loginForm">
+                <label for="username" class="label">Username</label>
+                <input type="text" id="username" name="username" required class="input">
+
+                <label for="password" class="label">Password</label>
+                <input type="password" id="password" name="password" required class="input">
+
+                <div class="options">
+                    <label><input type="checkbox" name="remember_me"> Remember me</label>
+                    <a href="#" class="forgot-password">Forgot Password?</a>
+                </div>
+
+                <button type="submit" class="btn-primary">Login</button>
+                <button type="button" class="btn-secondary">Sign up with Google</button>
+            </form>
+
+            <div class="login-link">
+                <span>Don't have an account? </span>
+                <a href="register.html">Register</a>
+            </div>
+
+            <button type="button" class="btn-third" onclick="goBack()">Go Back</button>
+        </div>
+        <div class="image-container">
+            <img src="images/Rectangle 5751.png" class="side-image" />
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
